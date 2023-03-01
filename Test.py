@@ -22,4 +22,4 @@ contrat.setIntervention([intervention1])
 
 ecart = contrat.ecart()
 
-print("l' Ecart pour le contrat N {} est de: {} euros".format(contrat.numero, ecart))
+print("l' Ecart pour le contrat N {} est de: {} cfa".format(contrat.numero, ecart))
